@@ -11,22 +11,17 @@ This is the Python+PyTorch code to reproduce the results of Fault Severity Diagn
 
 # Getting Started
 1. Computing environment set up can be refered to [this repo](https://github.com/JiahongChen/Set-up-deep-learning-frameworks-with-GPU-on-Google-Cloud-Platform). 
-1. Place data file in './CWRU_dataset'.
+1. Extract preprocessed [CWRU](https://csegroups.case.edu/bearingdatacenter/pages/welcome-case-western-reserve-university-bearing-data-center-website) data files in './CWRU_dataset'.
 1. Run the code by
 ```
 bash batchrun.sh
 ```
-Note:
-* Due to GitHub file size limitations, datasets are not upload to this repo, you can:
-  * Download raw data from [CWRU bearing data center](https://csegroups.case.edu/bearingdatacenter/pages/welcome-case-western-reserve-university-bearing-data-center-website).
-  * Request preprocessed data by sending email to me at jiahong.chen@ieee.org.
-
 
 
 
 
 # Citation
-Please cite our paper if you use our code for your work.
+Please cite our paper and the dataset if you found them usefull.
 ```
 @ARTICLE{chen2020unsupervised,
   author={J. {Chen} and J. {Wang} and J. {Zhu} and T. H. {Lee} and C. {De Silva}},
