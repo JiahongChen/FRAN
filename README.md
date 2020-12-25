@@ -18,7 +18,7 @@ bash batchrun.sh
 ```
 Note:
 * Due to GitHub file size limitations, datasets are not upload to this repo, you can:
-  * Download raw data from NOAA.
+  * Download raw data from [CWRU bearing data center](https://csegroups.case.edu/bearingdatacenter/pages/welcome-case-western-reserve-university-bearing-data-center-website).
   * Request preprocessed data by sending email to me at jiahong.chen@ieee.org.
 
 
